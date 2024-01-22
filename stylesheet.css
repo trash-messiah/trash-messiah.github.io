@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-family: Tahoma, sans-serif;
+    color: rgb(200, 19, 19);
+    font-weight: bold;
+    font-size: 45px;
+}
+
+h2 {
+    color: rgb(224, 39, 157);
+    font-size: 38px;
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 33px;
+    color: rgb(243,88,16);
+    font-family: 'Courier New', monospace;
+}
+
+h4 {
+    font-size: 28px;
+    color: rgb(231,40,14);
+}
+
+table, th, td {
+    border: 1px solid red;
+    color: pink;
+}
+
+div {
+    width: 670px;
+    border: 1px solid white;
+    padding: 50px;
+    margin: 20px;
+}
